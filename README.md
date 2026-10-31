@@ -13,22 +13,6 @@ This project focuses on identifying and analyzing missing values in the Titanic 
 - Google Sheets
 - Titanic Dataset
 
-## Missing Value Summary
-
-Column          Missing Values 
-PassengerId      0
-Survived         0
-Pclass           0
-Name             0
-Sex              0
-Age              117
-SibSp            0
-Parch            0
-Ticket           0
-Fare             0
-Cabin            687
-Embarked         2
-
 ## Key Findings
 1. The Age column contains 177 missing values.
 2. The Cabin column contains 687 missing values.
